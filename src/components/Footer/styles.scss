@@ -1,0 +1,17 @@
+.footer {
+  text-align: center;
+  padding-bottom: 30px;
+
+  .social-links .fa{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    border: 1px solid #0099FF;
+    margin: 40px 5px 0;
+    color: #0099FF;
+    cursor: pointer;
+    transition: .5s;
+    border-radius: 10px;
+  }
+}
